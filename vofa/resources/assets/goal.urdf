@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<robot name="soccer_goal">
+  <link name="goal_link">
+    <visual>
+      <geometry>
+        <cylinder radius="0.5" length="0.1"/>
+      </geometry>
+      <material name="goal_material">
+        <color rgba="0.0 1.0 0.0 1.0"/>
+      </material>
+    </visual>
+  </link>
+</robot>

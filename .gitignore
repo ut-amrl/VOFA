@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+logs/
+docs/_site
+docs/.jeckyll-cache
+__pycache__
