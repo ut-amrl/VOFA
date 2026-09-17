@@ -1,0 +1,45 @@
+VOFA
+Copyright 2026 VOFA Authors
+
+LICENSE SCOPE
+
+Except for the third-party material identified below or otherwise marked in
+the repository, the copyright and similar rights held by the VOFA Authors in
+this repository are licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0).
+The full license text is in LICENSE and the canonical license is available at:
+
+    https://creativecommons.org/licenses/by-nc/4.0/
+
+For attribution, please identify the work as "VOFA", credit the VOFA Authors,
+link to https://github.com/ut-amrl/VOFA, link to the license above, and
+indicate whether changes were made.
+
+This license applies only to rights that the VOFA Authors are authorized to
+license. It does not replace, restrict, or relicense any third-party material.
+
+THIRD-PARTY MATERIAL
+
+This repository is developed from and contains material derived from:
+
+    Booster Gym
+    Copyright 2024 Booster Robotics Technology Co., Ltd
+    https://github.com/BoosterRobotics/booster_gym
+
+Booster Gym material is licensed under the Apache License, Version 2.0. A copy
+of that license is provided in LICENSES/Apache-2.0.txt. Recipients may exercise
+the rights granted directly by that Apache License with respect to Booster Gym
+material; the CC BY-NC 4.0 terms above do not limit those independently granted
+rights.
+
+The Booster Gym license identifies the following additional code bases on
+which Booster Gym builds. Their respective licenses continue to apply:
+
+1. https://github.com/isaac-sim/IsaacGymEnvs
+2. https://github.com/leggedrobotics/legged_gym
+3. https://github.com/leggedrobotics/rsl_rl
+4. https://github.com/roboterax/humanoid-gym
+
+Dependencies, robot assets, pretrained models, datasets, and other third-party
+materials are governed by their own license terms unless expressly stated
+otherwise. No rights are granted to third-party trademarks.

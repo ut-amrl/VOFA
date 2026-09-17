@@ -144,3 +144,15 @@ In progress...
       url={https://arxiv.org/abs/2605.01518}, 
 }
 ```
+
+## License
+
+Except for third-party material, rights held by the VOFA Authors in this
+repository are licensed under the [Creative Commons Attribution-NonCommercial
+4.0 International License](LICENSE) (CC BY-NC 4.0).
+
+VOFA is built on [Booster Gym](https://github.com/BoosterRobotics/booster_gym).
+Material derived from Booster Gym remains available under the
+[Apache License 2.0](LICENSES/Apache-2.0.txt), and the CC BY-NC 4.0 license does
+not restrict rights granted directly by that license. See [NOTICE](NOTICE) for
+the complete scope and third-party attributions.
